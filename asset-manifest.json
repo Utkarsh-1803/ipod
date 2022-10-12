@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/ipod/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/ipod/static/js/main.c2ecff5e.chunk.js",
+    "main.js.map": "/ipod/static/js/main.c2ecff5e.chunk.js.map",
+    "runtime-main.js": "/ipod/static/js/runtime-main.59161aa3.js",
+    "runtime-main.js.map": "/ipod/static/js/runtime-main.59161aa3.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/ipod/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.5099411e.chunk.js": "/ipod/static/js/2.5099411e.chunk.js",
+    "static/js/2.5099411e.chunk.js.map": "/ipod/static/js/2.5099411e.chunk.js.map",
+    "index.html": "/ipod/index.html",
+    "precache-manifest.3613a3323ccc0d324642b5c8f0ff215a.js": "/ipod/precache-manifest.3613a3323ccc0d324642b5c8f0ff215a.js",
+    "service-worker.js": "/ipod/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/ipod/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/ipod/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.5099411e.chunk.js.LICENSE.txt": "/ipod/static/js/2.5099411e.chunk.js.LICENSE.txt",
+    "static/media/Despacito.jpg": "/ipod/static/media/Despacito.45187f64.jpg",
+    "static/media/Despacito.mp3": "/ipod/static/media/Despacito.a8772a8b.mp3",
+    "static/media/OnMyWay.mp3": "/ipod/static/media/OnMyWay.1e5d4d9f.mp3",
+    "static/media/OnMyWay.jpg": "/ipod/static/media/OnMyWay.3d508d6a.jpg",
+    "static/media/Senorita.mp3": "/ipod/static/media/Senorita.9ba16188.mp3",
+    "static/media/Senorita.webp": "/ipod/static/media/Senorita.f880c9df.webp",
+    "static/media/author.jpg": "/ipod/static/media/author.3e2eaebd.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.59161aa3.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.5099411e.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.c2ecff5e.chunk.js"
+  ]
+}
